@@ -2,7 +2,7 @@
   "name": "synorb",
   "displayName": "Synorb",
   "version": "0.1.0",
-  "description": "Source-cited Synorb Streams and Manifests: search streams, pull cited Manifests, and run saved Beacons.",
+  "description": "Structured, source-backed intelligence about companies, industries, research and regulation. Agents can query it and use Beacons to track topics over time.",
   "author": {
     "name": "Synorb",
     "email": "team@synorb.com"
