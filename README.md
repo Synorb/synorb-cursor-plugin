@@ -1,6 +1,6 @@
 # Synorb for Cursor and Grok Bot
 
-Synorb brings Cursor and Grok Bot context about the world their users care about. It complements integrations for personal context and actions with structured, source-backed intelligence about developments across companies, industries, research and regulation. Agents can query this intelligence and use Beacons to track topics over time, helping answer: "What is happening in the world that matters to this user?"
+Synorb brings Cursor and Grok Bot users context about the world they care about. It complements integrations for personal context and actions with structured streams delivering claims made by three primitives: organizations, people and datasets. Agents can query streams and use Beacons to track these primitives over time, helping answer: "What is happening in the world that matters to this user?"
 
 This plugin connects your agent to [Synorb](https://synorb.com)'s hosted [Model Context Protocol](https://modelcontextprotocol.io/) server. It can search Streams, pull Manifests with their source URLs, and save Beacons that the agent pulls again later. Saving or archiving a Beacon always requires the user's explicit approval.
 
