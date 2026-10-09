@@ -1,0 +1,28 @@
+{
+  "name": "synorb",
+  "displayName": "Synorb",
+  "version": "0.1.0",
+  "description": "Source-cited Synorb Streams and Manifests: search streams, pull cited Manifests, and run saved Beacons.",
+  "author": {
+    "name": "Synorb",
+    "email": "team@synorb.com"
+  },
+  "homepage": "https://synorb.com",
+  "repository": "https://github.com/Synorb/synorb-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "synorb",
+    "synorb streams",
+    "synorb manifests",
+    "synorb beacons"
+  ],
+  "category": "integrations",
+  "tags": [
+    "synorb",
+    "research",
+    "sources"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}

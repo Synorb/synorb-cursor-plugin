@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "synorb": {
+      "type": "http",
+      "url": "https://mcp.synorb.com/mcp",
+      "auth": {
+        "CLIENT_ID": "synorb-cursor",
+        "scopes": [
+          "read:mcp",
+          "read:beacons",
+          "write:beacons"
+        ]
+      }
+    }
+  }
+}
