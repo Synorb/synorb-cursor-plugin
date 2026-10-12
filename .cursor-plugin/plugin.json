@@ -1,8 +1,8 @@
 {
   "name": "synorb",
-  "displayName": "Synorb",
+  "displayName": "Synorb: Source-Cited Company Intelligence",
   "version": "0.1.0",
-  "description": "Streams of claims made by organizations, people and datasets. Agents can query them and use Beacons to track them over time.",
+  "description": "Source-cited intelligence on companies, SEC filings, central banks and podcasts. Structured streams of claims made by organizations, people and datasets, with Beacons to track them over time.",
   "author": {
     "name": "Synorb",
     "email": "team@synorb.com"
@@ -13,9 +13,13 @@
   "logo": "assets/logo.svg",
   "keywords": [
     "synorb",
-    "synorb streams",
-    "synorb manifests",
-    "synorb beacons"
+    "sec filings",
+    "central banks",
+    "company research",
+    "podcasts",
+    "citations",
+    "beacons",
+    "mcp"
   ],
   "category": "integrations",
   "tags": [
