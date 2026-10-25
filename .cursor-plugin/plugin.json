@@ -1,8 +1,8 @@
 {
   "name": "synorb",
-  "displayName": "Synorb: Source-Cited Company Intelligence",
+  "displayName": "Synorb: News & Context for AI Agents",
   "version": "0.1.0",
-  "description": "Source-cited intelligence on companies, SEC filings, central banks and podcasts. Structured streams of claims made by organizations, people and datasets, with Beacons to track them over time.",
+  "description": "Cited news for AI agents from AI companies, VC firms, private companies and business podcasts. Every item links to its source. Search Streams, pull Manifests and save Beacons to track them over time.",
   "author": {
     "name": "Synorb",
     "email": "team@synorb.com"
@@ -13,10 +13,12 @@
   "logo": "assets/logo.svg",
   "keywords": [
     "synorb",
-    "sec filings",
-    "central banks",
-    "company research",
-    "podcasts",
+    "ai news",
+    "venture capital",
+    "startups",
+    "private companies",
+    "business podcasts",
+    "news for agents",
     "citations",
     "beacons",
     "mcp"
